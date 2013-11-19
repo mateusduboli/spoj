@@ -14,7 +14,7 @@ A distância entre duas cidades `c1` e `c2` de coordenadas `(x1, y1)` e `(x2, y2
 
 ## Entrada
 
-A entrada contém múltiplos casos de teste. A primeira linha de cada caso de teste contém um inteiro `N (1 ≤ N ≤ 1000)`, o número de cidades. Em seguida, há `N` linhas, uma para cada cidade. Cada uma dessas linhas contém dois números de ponto flutuante, respectivamente as coordenadas `x` e y` daquela cidade `-104 ≤ x, y ≤ 104`.
+A entrada contém múltiplos casos de teste. A primeira linha de cada caso de teste contém um inteiro `N (1 ≤ N ≤ 1000)`, o número de cidades. Em seguida, há `N` linhas, uma para cada cidade. Cada uma dessas linhas contém dois números de ponto flutuante, respectivamente as coordenadas `x` e `y` daquela cidade `-104 ≤ x, y ≤ 104`.
 
 A entrada termina com `N=0`, que não deve ser processado.
 
